@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="authentication">Authentication</string>
+    <string name="email_address">E-mail</string>
+    <string name="password">Password</string>
+    <string name="log_in">Log in</string>
+    <string name="register">Register</string>
+    <string name="or">or</string>
+    <string name="log_out">Log out</string>
+    <string name="welcome_ph">Welcome %s!</string>
+    <string name="error_invalid_credentials">Invalid credentials</string>
+    <string name="error_user_exists">User with this email already exists</string>
+    <string name="error_invalid_email_address">Invalid email address</string>
+    <string name="password_validation_rule_minimum_length">8 or more characters</string>
+    <string name="password_validation_rule_special_character">At least one special symbol</string>
+    <string name="password_validation_rule_lowercase_letter">At least one lowercase letter</string>
+    <string name="password_validation_rule_uppercase_letter">At least one capital letter</string>
+    <string name="password_validation_rule_digit">At least one digit</string>
+</resources>
